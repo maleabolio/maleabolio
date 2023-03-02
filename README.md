@@ -1,16 +1,19 @@
-### Hi there 👋
+# **Hola, mi nombre es Alejandra!**
 
-<!--
-**maleabolio/maleabolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Trabajo como Content Analyst para General Motors Canadá
 
-Here are some ideas to get you started:
+La mayor parte de mi trabajo consiste en la creación y mantenimiento de páginas web utilizando Adobe Experience Manager.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estoy dando mis primeros pasos en el mundo de la programación. *Sabemos que no es sencillo, pero la práctica hace al maestro*
+
+Acabo de comenzar un **bootcamp** y estos son los primeros temas:
+
+| **Días**     | **Contenido** |
+| ------------ | ------------- |
+|     **1**    |    Markdown   |
+|     **2**    |    Terminal   |       
+|     **3**    |      Git      |
+|     **4**    |      HTML     |
+
+### La lista es bastante extensa ya que las clases durarán **16 semanas**, así que tenemos ***mucho*** camino por delante.
+
