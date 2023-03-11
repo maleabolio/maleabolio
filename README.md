@@ -8,7 +8,7 @@ Además me gusta mucho el diseño en general, por lo que también he estado apre
 
 Estoy dando mis primeros pasos en el mundo de la programación. (*Sabemos que no es sencillo, pero la práctica hace al maestro*)
 
-Acabo de comenzar un **bootcamp** y estos son los primeros temas que hemos visto:
+Acabo de comenzar un **bootcamp** para convertirnos en **Full-stack Javascript developers**. Estos son los primeros temas que hemos visto:
 
 | **Clase**     | **Contenido** |
 | ------------ | ------------- |
